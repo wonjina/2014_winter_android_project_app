@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="selected">
+        <item>(항목)</item>
+        <item>과일</item>
+        <item>채소</item>
+        <item>견과류</item>
+        <item>고기</item>
+        <item>생선</item>
+        <item>유제품</item>
+        <item>가공식품</item>
+        <item>김치</item>
+        <item>냉동식품</item>
+        <item>기타</item>
+    </string-array>
+    
+</resources>
